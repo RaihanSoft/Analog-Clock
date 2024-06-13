@@ -1,2 +1,1 @@
-# Analog-Clock 
-Live Link : https://raihansoft.github.io/Analog-Clock/
+# Analog-Clock https://raihansoft.github.io/Analog-Clock/
